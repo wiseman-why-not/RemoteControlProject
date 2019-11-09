@@ -69,7 +69,7 @@ public class RemoteControlApp {
 
 	// User Story 5
 	public static void turningOff() {
-		// This method should only pritn "TURNING OFF...
+		// This method should only print "TURNING OFF...
 		// This will be the output if the user types in "OFF"
 		System.out.println("TURNING OFF..");
 	}
