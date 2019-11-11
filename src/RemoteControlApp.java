@@ -28,6 +28,7 @@ public class RemoteControlApp {
 			String userInput = kb.next();
 
 			switch (userInput.toUpperCase()) {
+			case "0":
 			case "1":
 			case "2":
 			case "3":
